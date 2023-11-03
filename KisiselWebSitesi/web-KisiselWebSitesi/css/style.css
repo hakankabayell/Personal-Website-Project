@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: white;
+    background-image: url(web_developer_wallpaper__code__by_plusjack_d7bmt54-fullview.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;    
+    background-repeat: no-repeat;
+    background-position: bottom;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center .avatar img{
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    
+}
+
+.center {
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 550px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+h1 {
+    color: wheat;
+}
+
+.content h2,p{
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 80%;
+    margin: 10px auto ;
+}
+
+.content h3{
+    margin-top: 20px;
+}
+
+div.social i{
+    margin-top: 30px;
+    padding-left: 15px;
+    color: wheat;
+    opacity: 0.6;
+    font-size: 25px;
+    transition: 0.4s;
+}
+
+div.social i:hover{
+    color: white;
+}
+
+
+@media screen and (max-width: 700px) {
+    .center{
+        width: 350px;
+        height: 600px;
+    }
+    h1{
+        font-size: 22px;
+
+    }
+
+    h2{
+        font-size: 16px;
+    }
+    p{
+        width: 90%;
+        font-size: 12px;
+    }
+
+    h3{
+        font-size: 14px;
+    }
+
+    .social a i{
+        padding: 20px;
+        font-size:  35px;
+    }
+}
