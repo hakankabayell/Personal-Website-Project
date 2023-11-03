@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+KUbZNbeJQvSlKvL/gJ6Wgd7j07sCobIpBAKoEK5QUrCsZVJsGEzbP3/6mHxebHi4dPkFuzPRzE8txq1DBZ2LA==",
+  "dgSpecHash": "XitlM+mCLThlZw03urgmJIbfU2OXCFZMRSzw0hpt0ccACGzoM/RcD6Isp8g5N59jP3ETPDQy93ZwGR0kYBS2yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
+  "projectFilePath": "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hakan KABAYEL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hakan KABAYEL\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

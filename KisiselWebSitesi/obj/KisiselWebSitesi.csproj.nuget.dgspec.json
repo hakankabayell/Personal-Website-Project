@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj": {}
+    "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj": {
+    "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
+        "projectUniqueName": "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
         "projectName": "KisiselWebSitesi",
-        "projectPath": "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
+        "projectPath": "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\KisiselWebSitesi.csproj",
         "packagesPath": "C:\\Users\\Hakan KABAYEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hakan KABAYEL\\Desktop\\ASP .NET MVC Project\\KisiselWebSitesi\\obj\\",
+        "outputPath": "C:\\Users\\Hakan KABAYEL\\Desktop\\Personal Website Project\\KisiselWebSitesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hakan KABAYEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
